@@ -7,5 +7,6 @@ public class Test {
         System.out.println("dzg2");
         System.out.println("dzg4");
         System.out.println("dzg5");
+        System.out.println("dzg6");
     }
 }
