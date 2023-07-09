@@ -5,5 +5,6 @@ public class Test {
         System.out.println("dzg");
         System.out.println(123);
         System.out.println("dzg2");
+        System.out.println("dzg5");
     }
 }
